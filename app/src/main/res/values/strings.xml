@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PM1E12921</string>
+    <string name="nombre">Ingrese Nombre</string>
+    <string name="telefono">Ingrese Telefono</string>
+    <string name="btnsalvar">Salvar Contacto</string>
+    <string name="btnsalvados">Contactos Salvados</string>
+</resources>
